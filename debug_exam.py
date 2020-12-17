@@ -112,3 +112,24 @@ if __name__ == '__main__':
     print(data1)
     print(data2)
     print(dup)
+  
+   Answer
+
+5)a. Inputs 
+     3
+     1 2
+     2 2
+     8 7 
+     2
+     3 3 
+     4 4
+When key does not exist in data1 ,  the key value pair is not added to it. 
+5 b) 
+if key in data1:
+   V1=data1[k]
+if v1! =v2 :
+dupkeys[k]=[v1, v2]
+deldata1[k]
+else:
+data1[k]=v2
+
